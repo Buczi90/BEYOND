@@ -1,0 +1,5 @@
+{
+  "events": {
+    "restart": "node -e console.clear()"
+  }
+}
